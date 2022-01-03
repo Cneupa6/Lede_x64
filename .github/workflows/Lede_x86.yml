@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Lede_x86_64
+name: Lede_x86
 
 on:
   watch:
